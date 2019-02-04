@@ -14,3 +14,4 @@
 
 # Code Bits
 * Exploratory.ipynb - initial exploration of the show contestant information
+* Munging.ipynb - combining demographic data into large sets
