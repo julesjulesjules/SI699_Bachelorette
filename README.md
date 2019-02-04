@@ -1,6 +1,6 @@
 # SI699_Bachelorette
-Mastery Project
-Jillian Peacock & Julie Gilbert
+   Mastery Project
+   Jillian Peacock & Julie Gilbert
 
 
 # Data Files:
