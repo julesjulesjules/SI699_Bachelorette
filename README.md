@@ -1,6 +1,6 @@
 # SI699_Bachelorette
-   Mastery Project
-   Jillian Peacock & Julie Gilbert
+##### Mastery Project
+##### Jillian Peacock & Julie Gilbert
 
 
 # Data Files:
@@ -12,4 +12,5 @@
 * AgeComparisons.csv - for each season of data available in 'bachelor-contestants.csv' and 'bachelorette-contestants.csv' reports the age of the winner compared to the mean age of the contestant pool, as well as the difference between those two values
 
 
-#
+# Code Bits
+* Exploratory.ipynb - initial exploration of the show contestant information
