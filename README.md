@@ -13,8 +13,31 @@
 * the_bachelor.csv - combined bachelor-contestants.csv and bachelors.csv
 * the_bachelorette.csv - combined bachelor-contestants.csv and bachelorettes.csv
 * elimiation_long_form.csv - long form data version of bachelorette_538.csv
-
+* slim_set_bachelor.csv - slim set of variables for bachelor prediction
 
 # Code Bits
 * Exploratory.ipynb - initial exploration of the show contestant information
 * Munging.ipynb - combining demographic data into large sets
+* VariableCreation.ipynb - creating new variables to use for bachelor prediction
+
+# slim_set_bachelor.csv
+| Variable                 | DataType | Description |
+| ------------------------ |:--------:| -----------:|
+| SEASON                   |  int64   | The Bachelor television season number |
+| CONTESTANT               |  object  | Name of contestant |
+| CONTESTANT_JOB           |  object  | Occupation of the contestant |
+| CONTESTANT_HEIGHT        |  float64 | Contestant height in inches |
+| HEIGHT_DIFF              |  float64 | Difference in height between the contestant and the Bachelor (Bachelor height - Contestant height) |
+| HEIGHT_BIN               |  int32   | Height difference binned into levels, 2: Taller, 1: Same Height, 0: Shorter, 4: Missing |
+| CONTESTANT_HOMETOWN_CITY |  object  | Hometown of the contestant |
+| SAME_CITY                |  int32   | Binary, 1: Hometown city is the same between the contestant and Bachelor, 0: different |
+| SAME_STATE               |  int32   | Binary, 1: Hometown state is the same between the contestant and Bachelor, 0: different |
+| CONTESTANT_HOMETOWN_STATE|  object  | Hometown state of the Contestant |
+| CONTESTANT_REGION        |  object  | Region of the hometown state of the contestant, N - North East, W - West, M - Mid West, S - South, O - Other |
+| SAME_REGION              |  int32   | Binary, 1: Hometown state region is the same between the contestant and the Bachelor, 0: different |
+| AGE_DIFF                 |  float64 | Age difference between the Bachelor and the contestant (Bachelor Age - Contestant Age) |
+| AGE_DIFF_MEAN_POOL       |  float64 | Age difference between the contestant and the mean age of the contestant pool (Contestant - Pool) |
+| AGE_DIFF_BACH_POOL       |  float64 | Age difference between the Bachelor and the mean age of the contestant pool (Bachelor - Pool) |
+| AGE_DIFF_CAT             |  int32   | Age difference categorical, Contestants are 2: Younger, 1: Same, 0: Older, 4: Missing |
+| CONTESTANT_ELIMWEEK      |  float64 | Week the contestant was eliminated from their season |
+| WINNER                   |  int32   | Binary, 1: Winner, 0: Loser |    
