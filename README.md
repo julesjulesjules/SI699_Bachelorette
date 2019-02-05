@@ -10,6 +10,7 @@
 * bachelors.csv - contains demographic information on the bachelors from The Bachelor
 * bachelorettes.csv - contains demographic information on the bachelorettes from The Bachelorette
 * AgeComparisons.csv - for each season of data available in 'bachelor-contestants.csv' and 'bachelorette-contestants.csv' reports the age of the winner compared to the mean age of the contestant pool, as well as the difference between those two values
+* the_bachelor.csv - combined bachelor-contestants.csv and bachelors.csv
 
 
 # Code Bits
