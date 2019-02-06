@@ -4,11 +4,13 @@
 
 
 # Data Files:
+### Original files from outside sources
 * bachelorette_538.csv - contains contestant information as well as rose, date, and elimination data; from fivethirtyeight.com
 * bachelor-contestants.csv - contains contestant demographic information from The Bachelor
 * bachelorette-contestants.csv - contains contestant demographic information from The Bachelorette
 * bachelors.csv - contains demographic information on the bachelors from The Bachelor
 * bachelorettes.csv - contains demographic information on the bachelorettes from The Bachelorette
+### Compiled files, Created
 * AgeComparisons.csv - for each season of data available in 'bachelor-contestants.csv' and 'bachelorette-contestants.csv' reports the age of the winner compared to the mean age of the contestant pool, as well as the difference between those two values
 * the_bachelor.csv - combined bachelor-contestants.csv and bachelors.csv
 * the_bachelorette.csv - combined bachelor-contestants.csv and bachelorettes.csv
@@ -16,9 +18,10 @@
 * slim_set_bachelor.csv - slim set of variables for bachelor prediction
 
 # Code Bits
-* Exploratory.ipynb - initial exploration of the show contestant information
-* Munging.ipynb - combining demographic data into large sets
-* VariableCreation.ipynb - creating new variables to use for bachelor prediction
+* Exploratory.ipynb - initial exploration of the show contestant information; no external files made
+* Munging.ipynb - combining demographic data into large sets; the_bachelor.csv, the_bachelorette.csv, and elimination_long_form.csv made
+* VariableCreation.ipynb - creating new variables to use for bachelor prediction; slim_set_bachelor.csv made
+* BaselineModel.ipynb - contains code for the 'baseline model' to use for grading the final model
 
 # slim_set_bachelor.csv
 | Variable                 | DataType | Description |
