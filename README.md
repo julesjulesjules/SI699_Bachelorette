@@ -10,12 +10,15 @@
 * bachelorette-contestants.csv - contains contestant demographic information from The Bachelorette
 * bachelors.csv - contains demographic information on the bachelors from The Bachelor
 * bachelorettes.csv - contains demographic information on the bachelorettes from The Bachelorette
-### Compiled files, Created
+### Compiled Files, Created
 * AgeComparisons.csv - for each season of data available in 'bachelor-contestants.csv' and 'bachelorette-contestants.csv' reports the age of the winner compared to the mean age of the contestant pool, as well as the difference between those two values
 * the_bachelor.csv - combined bachelor-contestants.csv and bachelors.csv
 * the_bachelorette.csv - combined bachelor-contestants.csv and bachelorettes.csv
 * elimiation_long_form.csv - long form data version of bachelorette_538.csv
 * slim_set_bachelor.csv - slim set of variables for bachelor prediction
+* ette_cont_occ_group.csv - bachelorette-contestants.csv with extra column for new occupation grouping
+### Information Files
+* occupation_categories.txt - contains information on groupings determined for occupation groups
 
 # Code Bits
 * Exploratory.ipynb - initial exploration of the show contestant information; no external files made
