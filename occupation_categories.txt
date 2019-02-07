@@ -1,0 +1,36 @@
+Modified from https://www.bls.gov/soc/2018/major_groups.htm
+Visited on 2/7/2019
+
+Management/Business/Financial Operations
+Computer and Mathematical
+Architecture and Engineering
+Life, Physical, and Social Science
+Community and Social Service
+Legal
+Educational and Library
+Art and Design
+Entertainment and Media
+Sports
+Healthcare
+Food Preparation and Serving
+Building/Grounds/Maintenance/Construction
+Personal Care and Service
+Sales
+Office and Administrative Support
+Farming/Fishing/Forestry
+Transportation
+Military
+
+
+Consider -- breaking down Management/Business/Financial Operations further
+- Executive
+- Entrepreneur
+- Real Estate/Realtor
+- Accounting
+- Consultant
+- Analyst
+- Finance/Investment/Banking
+- Contractor/Developer
+- Manager
+
+Also, an 'Other' category
