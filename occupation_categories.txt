@@ -32,5 +32,7 @@ Consider -- breaking down Management/Business/Financial Operations further
 - Finance/Investment/Banking
 - Contractor/Developer
 - Manager
+- Business Owner
+
 
 Also, an 'Other' category
