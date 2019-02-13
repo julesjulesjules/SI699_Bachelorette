@@ -16,15 +16,18 @@
 * the_bachelorette.csv - combined bachelor-contestants.csv and bachelorettes.csv
 * elimiation_long_form.csv - long form data version of bachelorette_538.csv
 * slim_set_bachelor.csv - slim set of variables for bachelor prediction
-* ette_cont_occ_group.csv - bachelorette-contestants.csv with extra column for new occupation grouping
+* ette_cont_occ_group.csv - bachelorette-contestants.csv with extra column for new occupation grouping (in progress, attempting to get agreement)
 ### Information Files
 * occupation_categories.txt - contains information on groupings determined for occupation groups
+### Other Files
+* twitter_keywords.csv - each row is a set of keywords to use for the twitter scrape
 
 # Code Bits
 * Exploratory.ipynb - initial exploration of the show contestant information; no external files made
 * Munging.ipynb - combining demographic data into large sets; the_bachelor.csv, the_bachelorette.csv, and elimination_long_form.csv made
 * VariableCreation.ipynb - creating new variables to use for bachelor prediction; slim_set_bachelor.csv made
 * BaselineModel.ipynb - contains code for the 'baseline model' to use for grading the final model
+BasicBaseline_DemoPrediction.ipynb - code for a random forest prediction model using demographic data
 
 # slim_set_bachelor.csv
 | Variable                 | DataType | Description |
