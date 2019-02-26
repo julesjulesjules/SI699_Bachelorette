@@ -55,7 +55,7 @@ Chris Nordhorn,29,Entrepreneur,Entrepreneur,"Winter Park, Florida",5,6
 Jeff Medolla,35,Entrepreneur,Entrepreneur,"St. Louis, Missouri",3,7
 Jef Holm,27,Entrepreneur,Entrepreneur,"St. George, Utah",,8
 Ben Scott,28,Entrepreneur,Entrepreneur,"Lubbock, Texas",5,9
-J.J. O'Brien,30,Pantsapreneur,Entrepreneur,"Hanover, Massachusetts",6,10
+JJ O'Brien,30,Pantsapreneur,Entrepreneur,"Hanover, Massachusetts",6,10
 Kupah James,32,Entrepreneur,Entrepreneur,"Boston, Massachusetts",2,11
 Rob Dahm,27,Technology Executive,Executive,"Monroe, Michigan",1,7
 Lanny,26,Stallion and Breeding Manager,Farming/Fishing/Forestry,"Aubrey, Texas",5,2
@@ -82,7 +82,7 @@ Andy Chang,33,Dentist,Healthcare,"Dallas, Texas",1,2
 Blake Julian,27,Dentist,Healthcare,"Steamboat Springs, Colorado",6,7
 Michael Nance,26,Rehab Counselor,Healthcare,"Austin, Texas",4,8
 Larry Burchett,34,ER Doctor,Healthcare,"Overland Park, Kansas",1,9
-Mike,28,Dental Student,Healthcare,"London, England",1,9
+Mike X,28,Dental Student,Healthcare,"London, England",1,9
 Jason Leep,35,Urgent Care Physician,Healthcare,"Sturgeon Bay, Wisconsin",1,10
 Chris Strandburg,28,Dentist,Healthcare,"Granite Bay, California",7,11
 Tony Harris,35,Healer,Healthcare,"St. Louis, Missouri",3,11
@@ -96,11 +96,11 @@ Jay Resmini,29,Lawyer,Legal,"Barrington, Rhode Island",1,6
 Ben Castoriano,28,Lawyer,Legal,"Lake Charles, Louisiana",5,7
 West Lee,30,Lawyer,Legal,"Walhalla, South Carolina",4,7
 Michael Garofola,33,Federal Prosecutor,Legal,"Lindenhurst, New York",7,9
-Micah,32,Law Student,Legal,"Detroit Lakes, Minnesota",1,9
+Micah X,32,Law Student,Legal,"Detroit Lakes, Minnesota",1,9
 Jonathan Vollinger,26,Lawyer,Legal,"Hickory, North Carolina",1,9
 Rudie Dane,31,Attorney,Legal,"Yorba Linda, California",1,10
 Josh Seiter,27,Law Student/Exotic Dancer,Legal,"Chicago, Illinois",1,11
-Jean-Paul LaCount,35,Marine Biologist,"Life, Physical, and Social Science","Moraga, California",1,8
+JeanPaul LaCount,35,Marine Biologist,"Life, Physical, and Social Science","Moraga, California",1,8
 Charlie Maher,28,Financial Analyst,Analyst,"Hermosa Beach, California",6,1
 Bob Guiney,31,Mortgage Broker,Real Estate/Realtor,"Ferndale, Michigan",3,1
 Brian C.,28,Mortgage Broker,Real Estate/Realtor,"Dallas, Texas",2,1
@@ -128,14 +128,14 @@ Reid Rosenthal,30,Realtor,Real Estate/Realtor,"Upper Dublin, Pennsylvania",9,5
 Tanner Pope,30,Financial Analyst,Analyst,"Brownfield, Texas",6,5
 Mike Steinberg,28,Baseball Camp Owner,Business Owner,"New York, New York",4,5
 Brad Seberhagen,27,Financial Advisor,Finance/Investment/Banking,"Park Ridge, Illinois",3,5
-Roberto Martinez,26,Insurance Agent,Other,"Tampa, Florida",,6
+Robert Martinez,26,Insurance Agent,Other,"Tampa, Florida",,6
 Frank Neuschaefer,31,Retail Manager,Manager,"Bartlett, Illinois",9,6
 John Crivello,32,Hotel Business Development,Contractor/Developer,"Mukilteo, Washington",3,6
 Hunter Wagner,28,Internet Account Executive,Executive,"Fair Oaks Ranch, Texas",3,6
 Chris Hasek-Watt,27,Real Estate Developer,Contractor/Developer,"Campbell River, British Columbia",2,6
 Phil Kayden,30,Investment Manager,Finance/Investment/Banking,"Elmore, Ohio",1,6
 Tyler Morrow,25,Catering Manager,Manager,"Helena, Montana",1,6
-J.P. Rosenbaum,34,Construction Manager,Manager,"Roslyn, New York",,7
+JP Rosenbaum,34,Construction Manager,Manager,"Roslyn, New York",,7
 Ames Brown,31,Portfolio Manager,Manager,"Chadds Ford, Pennsylvania",8,7
 Ryan Park,31,Solar Energy Executive,Executive,"San Luis Obispo, California",7,7
 Bentley Williams,28,Businessman,Executive,"Alpine, Utah",3,7
@@ -150,7 +150,7 @@ Nathan Baake,25,Accountant,Accounting,"Casa Grande, Arizona",4,8
 Kyle Dillon,29,Financial Adviser,Finance/Investment/Banking,"Long Beach, California",2,8
 Joe Gendreau,27,Field Energy Adviser,Other,"Orlando, Florida",2,8
 Lerone Anu,29,Real Estate Consultant,Consultant,"Laguna Beach, California",1,8
-Randy Lee Woyak,30,Marketing Manager,Manager,"Oak Creek, Wisconsin",1,8
+Randy Woyak,30,Marketing Manager,Manager,"Oak Creek, Wisconsin",1,8
 Chris Siegfried,27,Mortgage Broker,Real Estate/Realtor,"McMinnville, Oregon",,9
 Drew Kenney,27,Digital Marketing Analyst,Analyst,"Scottsdale, Arizona",10,9
 Brian Jarosinski,29,Financial Advisor,Finance/Investment/Banking,"Olney, Maryland",3,9
@@ -161,12 +161,12 @@ Marcus Grodd,25,Sports Medicine Manager,Manager,"Medicine Hat, Alberta",8,10
 Dylan Petitt,26,Accountant,Accounting,"Longmeadow, Massachusetts",7,10
 Craig Muhlbauer,29,Tax Accountant,Accounting,"Defiance, Iowa",2,10
 Tanner Tolbert,28,Auto Finance Manager,Manager,"Stilwell, Kansas",6,11
-J.J. Lane III,32,Former Investment Banker,Finance/Investment/Banking,"Dacono, Colorado",6,11
+JJ Lane III,32,Former Investment Banker,Finance/Investment/Banking,"Dacono, Colorado",6,11
 Ian Thomson,28,Executive Recruiter,Office and Administrative Support,"Ramsey, New Jersey",5,11
 Corey Stansell (NY),30,Investment Banker,Finance/Investment/Banking,"New York, New York",4,11
 Ryan Beckett,32,Realtor,Real Estate/Realtor,"Wellington, Florida",4,11
 Cory Shivar (NC),35,Residential Developer,Contractor/Developer,"Seven Springs, North Carolina",2,11
-David,28,Real Estate Agent,Real Estate/Realtor,"Orlando, Florida",1,11
+David X,28,Real Estate Agent,Real Estate/Realtor,"Orlando, Florida",1,11
 Derek Peth,29,Commercial Banker,Finance/Investment/Banking,"Waverly, Iowa",6,12
 Chad Johnson,28,Luxury Real Estate Agent,Real Estate/Realtor,"Jenks, Oklahoma",4,12
 Christian Bishop,26,Telecom Consultant,Consultant,"Los Angeles, California",3,12
@@ -220,8 +220,8 @@ Kasey Kahl,27,Advertising Account Executive,Sales,"Fresno, California",5,6
 Steve Kocsis,28,Sales Representative,Sales,"Chesterland, Ohio",3,6
 Craig McKinnon,34,Dental Sales,Sales,"Sarnia, Ontario",2,6
 Tyler Vermette,25,Online Advertising,Sales,"Chelsea, Vermont",2,6
-Derek,28,Sales Manager,Sales,"Warren, Michigan",1,6
-John N.,27,Engineering Software Sales,Sales,"Wichita, Kansas",1,6
+Derek X,28,Sales Manager,Sales,"Warren, Michigan",1,6
+John N,27,Engineering Software Sales,Sales,"Wichita, Kansas",1,6
 Lucas Daniels,30,Oilfield Equipment Distributor,Sales,"Odessa, Texas",7,7
 William Holman,30,Cellular Phone Salesman,Sales,"Fostoria, Ohio",5,7
 Chris Drish,25,Sports Marketing Coordinator,Sales,"Moline, Illinois",3,7
@@ -264,10 +264,10 @@ Ryan Hoag,28,Professional football player,Sports,"Minneapolis, Minnesota",2,4
 Michael Stagliano,25,Break Dance Instructor,Sports,"Tacoma, Washington",7,5
 Simon Ambrose,26,Soccer Coach,Sports,"Bradford, England",2,5
 Adam Duvendeck,27,Olympic Cyclist,Sports,"Santa Barbara, California",1,5
-Bryan Vaderman,28,High School Coach,Sports,"Lawton, Oklahoma",1,5
+Brian Vaderman,28,High School Coach,Sports,"Lawton, Oklahoma",1,5
 "Arie Luyendyk, Jr.",30,Race Car Driver,Sports,"Scottsdale, Arizona",10,8
 Ryan Bowers,31,Pro Sports Trainer,Sports,"Evans, Georgia",6,8
-Juan Pablo Galavis,31,Former Pro Soccer Player,Sports,"Barquisimeto, Venezuela",6,9
+Juan Galavis,31,Former Pro Soccer Player,Sports,"Barquisimeto, Venezuela",6,9
 Josh Murray,29,Former Professional Baseball Player,Sports,"Athens, Georgia",,10
 Brian Osborne,27,Basketball Coach,Sports,"Camp Hill, Pennsylvania",7,10
 Nick Sutter,27,Professional Golfer,Sports,"Barrington, Illinois",2,10
