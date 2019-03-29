@@ -1,63 +1,63 @@
 Name,Age,Occupation,Agreement_1,Hometown,ElimWeek,Season
-Garrett Yrigoyen,29,Medical Sales Representative,,"Manteca, California",,14
-Blake Horstmann,28,Sales Rep,,"Bailey, Colorado",10,14
-Jason Tartick,29,Senior Corporate Banker,,"Buffalo, New York",9,14
-Colton Underwood,26,Former Pro Football Player,,"Washington, Illinois",8,14
-"William ""Wills"" Reid",29,Graphic Designer,,"Los Angeles, California",7,14
-"Leandro ""Leo"" Dottavio",31,Actor,,"Los Angeles, California",7,14
-Connor Obrochta,25,Fitness Coach,,"St. Petersburg, Florida",6,14
-Lincoln Adim,26,Account Sales Executive,,"Boston, Massachusetts",6,14
-Chris Randone,30,Sales Trainer,,"Pleasantville, New York",6,14
-John Graham,28,Software Engineer,,"Chicago, Illinois",5,14
-Jordan Kimball,26,Male Model,,"Crystal River, Florida",5,14
-David Ravitz,25,Venture Capitalist,,"Cherry Hill, New Jersey",5,14
-Christon Staples,31,Former Harlem Globetrotter,,"Los Angeles, California",4,14
-"Nicholas ""Nick"" Spetsas",27,Attorney,,"Palm Coast, Florida",4,14
-Jean Blanc,31,Colognoisseur,,"Boston, Massachusetts",4,14
-"Michael ""Mike"" Renner",27,Sports Analyst,,"Cincinnati, Ohio",3,14
-Ryan Peterson,26,Banjoist,,"Mashpee, Massachusetts",3,14
-Clay Harbor,30,Pro Football Player,,"Chicago, Illinois",3,14
-Alex Templeman,31,Construction Manager,,"Atlanta, Georgia",2,14
-Rickey Jasper,27,IT Consultant,,"Ashburn, Virginia",2,14
-Trent Jespersen,28,Realtor,,"Carroll, Iowa",2,14
-Chase Vergason,27,Advertising Vice President,,"Sanford, Florida",1,14
-Christian Estrada,28,Banker,,"San Diego, California",1,14
-Darius Feaster,26,Pharmaceutical Sales Rep,,"Sherman Oaks, California",1,14
-Grant Vandevanter,27,Electrician,,"Danville, California",1,14
-Joe Amabile,31,Grocery Store Owner,,"Chicago, Illinois",1,14
-Kamil Nicalek,30,Social Media Participant,,"Monroe, New York",1,14
-Jake Enyeart,29,Marketing Consultant,,"Minneapolis, Minnesota",1,14
-Bryan Abasolo,37,Chiropractor,,"Miami, Florida",,13
-Peter Kraus,31,Business Owner,,"Madison, Wisconsin",10,13
-Eric Bigger,29,Personal Trainer,,"Baltimore, Maryland",9,13
-Dean Unglert,26,Startup Recruiter,,"Aspen, Colorado",8,13
-Adam Gottschalk,27,Real Estate Agent,,"Dallas, Texas",7,13
-"Matthew ""Matt"" Munson",32,Construction Sales Rep,,"Meriden, Connecticut",7,13
-"Aleksandr ""Alex"" Bordyukov",28,Information Systems Supervisor,,"Grosse Pointe, Michigan",6,13
-"William ""Will"" Gaskins",28,Sales Manager,,"White Plains, New York",6,13
-Kenny Layne,35,Professional Wrestler,,"Orlando, Florida",6,13
-Anthony Battle,26,Education Software Manager,,"Chicago, Illinois",5,13
-Josiah Graham,28,Prosecuting Attorney,,"Plantation, Florida",5,13
-Lee Garrett,30,Singer/Songwriter,,"Jacksonville, Florida",5,13
-"Ignacio ""Iggy"" Rodriguez",30,Consulting Firm CEO,,"Pasadena, California",4,13
-Jonathan Treece,31,Tickle Monster,,"New Smyrna Beach, Florida",4,13
-Jack Stone,32,Attorney,,"Dallas, Texas",4,13
-Brady Ervin,29,Male Model,,"Eden Prairie, Minnesota",3,13
-"Kenneth ""Diggy"" Moreland",31,Senior Inventory Analyst,,"Chicago, Illinois",3,13
-Bryce Powers,30,Firefighter,,"Orlando, Florida",3,13
-"Frederick ""Fred"" Johnson",27,Executive Assistant,,"Dallas, Texas",3,13
-Blake Elarbee,31,Aspiring Drummer,,"Marina del Rey, California",2,13
-"James ""Jamey"" Kocan",32,Sales Account Executive,,"Santa Monica, California",2,13
-Lucas Yancey,30,Whaboom,,"Woodside, California",2,13
-DeMario Jackson,30,Executive Recruiter,,"Century City, California",2,13
-Jedidiah Ballard,35,ER Physician,,"Augusta, Georgia",1,13
-Michael Black,26,Former Professional Basketball Player,,"Chicago, Illinois",1,13
-"Robert ""Rob"" Howard",30,Law Student,,"Calgary, Canada",1,13
-Grant Hubsher,29,Emergency Medicine Physician,,"Palm Harbor, Florida",1,13
-Blake Killpack,29,U.S. Marine Veteran,,"San Francisco, California",1,13
-Milton LaCroix,31,Hotel Recreation Supervisor,,"North Bay Village, Florida",1,13
-Mohit Sehgal,26,Product Manager,,"Pacifica, California",1,13
-Kyle Sherwood,26,Marketing Consultant,,"Stratford, Connecticut",1,13
+Garrett Yrigoyen,29,Medical Sales Representative,Sales,"Manteca, California",,14
+Blake Horstmann,28,Sales Rep,Sales,"Bailey, Colorado",10,14
+Jason Tartick,29,Senior Corporate Banker,Finance/Investment/Banking,"Buffalo, New York",9,14
+Colton Underwood,26,Former Pro Football Player,Sports,"Washington, Illinois",8,14
+"William ""Wills"" Reid",29,Graphic Designer,Art and Design,"Los Angeles, California",7,14
+"Leandro ""Leo"" Dottavio",31,Actor,Entertainment and Media,"Los Angeles, California",7,14
+Connor Obrochta,25,Fitness Coach,Personal Care and Service,"St. Petersburg, Florida",6,14
+Lincoln Adim,26,Account Sales Executive,Sales,"Boston, Massachusetts",6,14
+Chris Randone,30,Sales Trainer,Sales,"Pleasantville, New York",6,14
+John Graham,28,Software Engineer,Computer and Mathematical,"Chicago, Illinois",5,14
+Jordan Kimball,26,Male Model,Entertainment and Media,"Crystal River, Florida",5,14
+David Ravitz,25,Venture Capitalist,Other,"Cherry Hill, New Jersey",5,14
+Christon Staples,31,Former Harlem Globetrotter,Sports,"Los Angeles, California",4,14
+"Nicholas ""Nick"" Spetsas",27,Attorney,Legal,"Palm Coast, Florida",4,14
+Jean Blanc,31,Colognoisseur,Other,"Boston, Massachusetts",4,14
+"Michael ""Mike"" Renner",27,Sports Analyst,Analyst,"Cincinnati, Ohio",3,14
+Ryan Peterson,26,Banjoist,Other,"Mashpee, Massachusetts",3,14
+Clay Harbor,30,Pro Football Player,Sports,"Chicago, Illinois",3,14
+Alex Templeman,31,Construction Manager,Manager,"Atlanta, Georgia",2,14
+Rickey Jasper,27,IT Consultant,Consultant,"Ashburn, Virginia",2,14
+Trent Jespersen,28,Realtor,Real Estate/Realtor,"Carroll, Iowa",2,14
+Chase Vergason,27,Advertising Vice President,Executive,"Sanford, Florida",1,14
+Christian Estrada,28,Banker,Finance/Investment/Banking,"San Diego, California",1,14
+Darius Feaster,26,Pharmaceutical Sales Rep,Sales,"Sherman Oaks, California",1,14
+Grant Vandevanter,27,Electrician,Building/Grounds/Maintenance/Construction,"Danville, California",1,14
+Joe Amabile,31,Grocery Store Owner,Business Owner,"Chicago, Illinois",1,14
+Kamil Nicalek,30,Social Media Participant,Other,"Monroe, New York",1,14
+Jake Enyeart,29,Marketing Consultant,Consultant,"Minneapolis, Minnesota",1,14
+Bryan Abasolo,37,Chiropractor,Healthcare,"Miami, Florida",,13
+Peter Kraus,31,Business Owner,Business Owner,"Madison, Wisconsin",10,13
+Eric Bigger,29,Personal Trainer,Personal Care and Service,"Baltimore, Maryland",9,13
+Dean Unglert,26,Startup Recruiter,Other,"Aspen, Colorado",8,13
+Adam Gottschalk,27,Real Estate Agent,Real Estate/Realtor,"Dallas, Texas",7,13
+"Matthew ""Matt"" Munson",32,Construction Sales Rep,Sales,"Meriden, Connecticut",7,13
+"Aleksandr ""Alex"" Bordyukov",28,Information Systems Supervisor,Other,"Grosse Pointe, Michigan",6,13
+"William ""Will"" Gaskins",28,Sales Manager,Sales,"White Plains, New York",6,13
+Kenny Layne,35,Professional Wrestler,Sports,"Orlando, Florida",6,13
+Anthony Battle,26,Education Software Manager,Manager,"Chicago, Illinois",5,13
+Josiah Graham,28,Prosecuting Attorney,Legal,"Plantation, Florida",5,13
+Lee Garrett,30,Singer/Songwriter,Entertainment and Media,"Jacksonville, Florida",5,13
+"Ignacio ""Iggy"" Rodriguez",30,Consulting Firm CEO,Executive,"Pasadena, California",4,13
+Jonathan Treece,31,Tickle Monster,Other,"New Smyrna Beach, Florida",4,13
+Jack Stone,32,Attorney,Legal,"Dallas, Texas",4,13
+Brady Ervin,29,Male Model,Entertainment and Media,"Eden Prairie, Minnesota",3,13
+"Kenneth ""Diggy"" Moreland",31,Senior Inventory Analyst,Analyst,"Chicago, Illinois",3,13
+Bryce Powers,30,Firefighter,Community and Social Service,"Orlando, Florida",3,13
+"Frederick ""Fred"" Johnson",27,Executive Assistant,Office and Administrative Support,"Dallas, Texas",3,13
+Blake Elarbee,31,Aspiring Drummer,Other,"Marina del Rey, California",2,13
+"James ""Jamey"" Kocan",32,Sales Account Executive,Sales,"Santa Monica, California",2,13
+Lucas Yancey,30,Whaboom,Other,"Woodside, California",2,13
+DeMario Jackson,30,Executive Recruiter,Other,"Century City, California",2,13
+Jedidiah Ballard,35,ER Physician,Healthcare,"Augusta, Georgia",1,13
+Michael Black,26,Former Professional Basketball Player,Sports,"Chicago, Illinois",1,13
+"Robert ""Rob"" Howard",30,Law Student,Legal,"Calgary, Canada",1,13
+Grant Hubsher,29,Emergency Medicine Physician,Healthcare,"Palm Harbor, Florida",1,13
+Blake Killpack,29,U.S. Marine Veteran,Military,"San Francisco, California",1,13
+Milton LaCroix,31,Hotel Recreation Supervisor,Other,"North Bay Village, Florida",1,13
+Mohit Sehgal,26,Product Manager,Manager,"Pacifica, California",1,13
+Kyle Sherwood,26,Marketing Consultant,Consultant,"Stratford, Connecticut",1,13
 Nick Benvenutti,33,Electrical Engineer,Architecture and Engineering,"Carthage, Illinois",3,12
 Will Haduch,26,Civil Engineer,Architecture and Engineering,"Jersey City, New Jersey",2,12
 Jake Patton,26,Landscape Architect,Architecture and Engineering,"Playa Vista, California",1,12
