@@ -2,9 +2,31 @@ library(ggplot2)
 library(reshape2)
 library(tidyr)
 library(dplyr)
+library(gridExtra)
 
 setwd("C:/Users/julie/Documents/SI699/SI699_Bachelorette")
 senti <- read.csv("ette14_twitterfeatures.csv")
+past <- read.csv("past_cumulative_vars.csv")
+
+#past2 <- filter(past, SEASON == 8)
+p1 <- ggplot(data=filter(past, SEASON == 8), aes(x=WEEK, y=value)) + 
+  geom_jitter(aes(color=NAME)) + theme(legend.position = "none") +
+  ggtitle("SEASON 8")
+
+p2 <- ggplot(data=filter(past, SEASON == 9), aes(x=WEEK, y=value)) + 
+  geom_jitter(aes(color=NAME)) + theme(legend.position = "none") +
+  ggtitle("SEASON 9")
+
+p3 <- ggplot(data=filter(past, SEASON == 10), aes(x=WEEK, y=value)) + 
+  geom_jitter(aes(color=NAME)) + theme(legend.position = "none") +
+  ggtitle("SEASON 10")
+
+p4 <- ggplot(data=filter(past, SEASON == 11), aes(x=WEEK, y=value)) + 
+  geom_jitter(aes(color=NAME)) + theme(legend.position = "none") +
+  ggtitle("SEASON 11")
+
+grid.arrange(p1, p2, p3, p4, ncol = 2, nrow = 2)
+
 
 # melt variables into long form
 senti_long <- melt(senti)
